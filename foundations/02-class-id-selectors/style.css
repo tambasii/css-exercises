@@ -1,0 +1,19 @@
+.pope {
+  background-color: rgba(255, 166, 166, 255);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#wens {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#luma {
+  font-size: 24px;
+}
+
+#kyler {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
